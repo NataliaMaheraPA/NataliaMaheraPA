@@ -1,16 +1,32 @@
-## Hi there 👋
+<h1 align="left">Hey 👋 What's up?</h1>
 
-<!--
-**NataliaMaheraPA/NataliaMaheraPA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">I'm Natalia</p>
 
-Here are some ideas to get you started:
+- 👩‍💻 "Turning ideas into elegant, functional web applications—one commit at a time."
+- 🌟 "Passionate about creating seamless user experiences with clean, maintainable code."
+- 🌐 "Web development is not just my profession, it’s my canvas for creativity."
+- 🔄 "Believer in lifelong learning—because tech never stops evolving."
+- 🚀 "Let’s build something amazing together!"
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+
+## aboutMe.js
+
+```bash
+const desc = {
+  pronouns: ["she", "her"],
+  code: ["JavaScript (ES5/ES6+)", "HTML5", "CSS3", "SCSS", "TypeScript"],
+  askMeAbout: ["web development", "frontend magic", "tech trends", "music", "coffee"],
+  technologies: {
+    frontend: {
+      frameworks: ["React", "Next.js"],
+      CSS: ["Tailwind CSS", " ShadCN", "MUI", "ChakraUI"],
+    },
+    backend: {
+      basics: ["Node.js", "Firebase", "MongoDB"],
+    },
+  },
+  versionControl: ["Git", "GitHub", "GitLab"],
+  softSkills: ["teamwork", "problem-solving", "attention to details"],
+};
+```
