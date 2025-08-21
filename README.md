@@ -26,7 +26,7 @@ const desc = {
       basics: ["Node.js", "Firebase", "MongoDB"],
     },
   },
-  versionControl: ["Git", "GitHub", "GitLab"],
+  versionControl: ["Git", "GitHub", "GitLab", "Bitbucket"],
   softSkills: ["teamwork", "problem-solving", "attention to details"],
 };
 ```
