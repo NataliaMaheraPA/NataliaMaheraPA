@@ -2,9 +2,9 @@
 
 <p align="left">I'm Natalia</p>
 
-🌟 "Passionate about creating seamless user experiences with clean, maintainable code."
-🔄 "Believer in lifelong learning — because tech never stops evolving."
-🚀 "Let’s build something amazing together!"
+- 🌟 "Passionate about creating seamless user experiences with clean, maintainable code."
+- 🔄 "Believer in lifelong learning — because tech never stops evolving."
+- 🚀 "Let’s build something amazing together!"
 
 ###
 
