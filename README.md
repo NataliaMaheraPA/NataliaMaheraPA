@@ -17,7 +17,7 @@ const desc = {
   askMeAbout: ["web development", "frontend magic", "tech trends", "music", "coffee"],
   technologies: {
     frontend: {
-      frameworks: ["React", "Next.js"],
+      frameworks: ["React", "Next.js", "Astro.js"],
       CSS: ["Tailwind CSS", " ShadCN", "MUI", "ChakraUI"],
     },
     backend: {
